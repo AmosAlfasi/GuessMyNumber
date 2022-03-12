@@ -26,6 +26,7 @@ document.querySelector('.again').addEventListener('click', function () {
   scoreNum = 20;
   document.querySelector('.score').textContent = scoreNum;
   document.querySelector('.guess').value = '';
+  flag = 0;
 });
 
 document.querySelector('.check').addEventListener('click', function () {
