@@ -2,4 +2,4 @@
 
 The Name Says It All :D
 
-Sooo..Guess My Number
+https://amosalfasi.github.io/GuessMyNumber/
